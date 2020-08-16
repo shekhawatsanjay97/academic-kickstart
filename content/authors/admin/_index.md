@@ -80,7 +80,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hey! I am a graduate with B.Tech in Electronics and Communication Engineering from CTAE, Udaipur. I am lucky enough to be supervised by some remarkable researchers [Prof. Andreas Uhl](http://wavelab.at/member-uhl.shtml) ,[Roland Kwitt](http://rkwitt.org/), [Prof. Vikram M. Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) , [Bernhard Prommegger](http://wavelab.at/member-bprommeg.shtml).
+Hey! I am a graduate with B.Tech in Electronics and Communication Engineering from CTAE, Udaipur. I am lucky enough to be supervised by some remarkable researchers [Prof. Andreas Uhl](http://wavelab.at/member-uhl.shtml) ,[Prof. Roland Kwitt](http://rkwitt.org/), [Prof. Vikram M. Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) , [Bernhard Prommegger](http://wavelab.at/member-bprommeg.shtml).
 
 ### Research
 
