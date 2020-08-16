@@ -59,7 +59,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = ""
+  link = "www.linkedin.com/in/sanjay-shekhawat-71b92514a"
 
 [[social]]
   icon = "google-scholar"
@@ -80,8 +80,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a second year Dphil student in Computer Vision at the [Department of Engineering Science](http://www.eng.ox.ac.uk/) working under the supervision of [Prof. Philip Torr](http://www.robots.ox.ac.uk/~tvg/index.php) where I work closely with [Dr. Puneet Dokania](https://puneetkdokania.github.io/). I am lucky enough to be supervised by some remarkable researchers from Adobe [Richard Zhang](https://richzhang.github.io/) ,[Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Oliver Wang](http://www.oliverwang.info/) , [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/).
+Hey! I am a graduate with B.Tech in Electronics and Communication Engineering from CTAE, Udaipur. I am lucky enough to be supervised by some remarkable researchers [Prof. Andreas Uhl](http://wavelab.at/member-uhl.shtml) ,[Roland Kwitt](http://rkwitt.org/), [Prof. Vikram M. Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) , [Bernhard Prommegger](http://wavelab.at/member-bprommeg.shtml).
 
 ### Research
 
-The central goal of my research is to be able to generate and edit realistic images with very sparse user interaction. I am also interested in Generative Models based on Generative Adversarial Networks and Unsupervised Learning in general.
+My main research area includes pattern recognition, digital image forensics, biometrics (hand - and finger-veins, iris and face) and privacy enhancing technologies for biometric systems.
