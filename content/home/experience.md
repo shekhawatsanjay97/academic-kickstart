@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "The Multimedia Signal Processing and Security Lab (WaveLab), University of Salzburg "
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Austria, Europe"
+  date_start = "2020-01-01"
+  date_end = "2020-03-30"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Guide: Prof. Andreas Uhl
+
+  * Research on Efficient FingerVein Image Protection Principles using different Types of Recognition Schemes.
+  * Rotation Invariant Multi-Perspective Finger-Vein Biometrics in Image domain.
+  * GAN based Encrypted FingerVein Image Circumvention.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research and Development Project Intern"
+  company = "Indian Institute of Technology, Bombay"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Maharashtra, India"
+  date_start = "2019-05-22"
+  date_end = "2019-07-10"
+  description = """
+  Guide: Prof. Vikram M. Gadre
+
+  * Face Detection and Recognition
+  * Served as Teaching Associate: Texas Instruments Digital Signal Processing Lab, IIT Bombay
+  """
+
+[[experience]]
+  title = "Summer Research Intern"
+  company = "Indian Institute of Technology, Bombay"
+  company_url = ""
+  location = "Maharashtra, India"
+  date_start = "2018-06-01"
+  date_end = "2018-07-07"
+  description = ""
+
+
 
 +++
+
+
+
+
