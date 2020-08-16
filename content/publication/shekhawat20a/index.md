@@ -1,6 +1,6 @@
 +++
 title = "Efficient Fingervein Sample Image Encryption"
-date = 2020
+date = 01-01-2020
 authors = ["Sanjay Shekhawat", "Heinz Hofbauer", "Bernhard Prommegger", "Andreas Uhl"]
 publication_types = ["1"]
 abstract = ""
